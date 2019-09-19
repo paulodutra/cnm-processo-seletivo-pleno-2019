@@ -11,8 +11,7 @@ O objetivo maior da CNM é consolidar o movimento municipalista, fortalecer a au
 
 1. Antes de iniciar a prova, faça um fork do projeto;
 
-1. Crie uma branch com o nome de cada questão. Ex: atividade-01 outra branch com o nome atividade-02
-Nessa branch edite o arquivo, respondendo as questões;
+1. Crie uma branch com o nome de cada questão (Ex: atividade-01) e responda a mesma;
 
 1. Após responder a questão, commit os arquivos para branch correspondente;
 
