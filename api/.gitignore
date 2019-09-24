@@ -1,0 +1,26 @@
+# comentário
+.idea/
+.vscode/
+
+# comentário
+.env
+.env.backup
+*.iml
+
+# comentário
+composer.lock
+package-lock.json
+
+# comentário
+node_modules/
+vendor/
+
+# comentário
+/public/hot
+/public/storage
+/storage/*.key
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
