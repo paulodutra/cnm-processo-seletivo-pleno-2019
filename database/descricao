@@ -1,0 +1,20 @@
+usuarios:
+- nome
+- documento
+- celular
+- email
+
+eventos:
+- nome
+- descricao
+- endereco 
+- cidade 
+- estado 
+- data_inscricao_inicio
+- data_inscricao_finalizacao
+- hora_inscricao_inicio
+- hora_inscricao_finalizacao
+- data_evento_inicio
+- data_evento_finalizacao
+- hora_evento_inicio
+- hora_evento_finalizacao
